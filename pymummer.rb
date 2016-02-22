@@ -4,7 +4,7 @@ class Pymummer < Formula
   url "https://github.com/sanger-pathogens/pymummer/archive/v0.7.0.tar.gz"
   sha256 "bd329946f67d3c7ebb783038077cbd831a63d65353e24f9454404150e5217876"
   head "https://github.com/sanger-pathogens/pymummer.git"
-  revision 1
+
   bottle do
     cellar :any_skip_relocation
     sha256 "3842098e80cd864c0b26a2b3a8710e67dbf7d0e6f4141ffdda23d0ddb18b0ea1" => :yosemite
